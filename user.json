@@ -1,0 +1,17 @@
+[{
+        "username": "pekosog",
+        "email": "pekosog@calexico.com",
+        "role": "admin"
+    },{
+        "username": "rodo",
+        "email": "pekosog@calexico.com",
+        "role": "superuser"
+    },{
+        "username": "isra",
+        "email": "pekosog@calexico.com",
+        "role": "superuser"
+    },{
+        "username": "jc",
+        "email": "pekosog@calexico.com",
+        "role": "admin"
+    }]
