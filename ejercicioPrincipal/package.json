@@ -19,10 +19,11 @@
   },
   "homepage": "https://github.com/h4rr21/ejercitandoJS#readme",
   "dependencies": {
-    "express": "^4.16.3",
     "fs": "0.0.1-security"
   },
   "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
     "nodemon": "^1.17.5"
   }
 }
